@@ -1,0 +1,16 @@
+C:\Users\ANTHONY\Desktop\Banco\Banking\Banking.Common\bin\Debug\netcoreapp2.0\Banking.Common.deps.json
+C:\Users\ANTHONY\Desktop\Banco\Banking\Banking.Common\bin\Debug\netcoreapp2.0\Banking.Common.dll
+C:\Users\ANTHONY\Desktop\Banco\Banking\Banking.Common\bin\Debug\netcoreapp2.0\Banking.Common.pdb
+C:\Users\ANTHONY\Desktop\Banco\Banking\Banking.Common\obj\Debug\netcoreapp2.0\Banking.Common.csproj.CoreCompileInputs.cache
+C:\Users\ANTHONY\Desktop\Banco\Banking\Banking.Common\obj\Debug\netcoreapp2.0\Banking.Common.AssemblyInfoInputs.cache
+C:\Users\ANTHONY\Desktop\Banco\Banking\Banking.Common\obj\Debug\netcoreapp2.0\Banking.Common.AssemblyInfo.cs
+C:\Users\ANTHONY\Desktop\Banco\Banking\Banking.Common\obj\Debug\netcoreapp2.0\Banking.Common.dll
+C:\Users\ANTHONY\Desktop\Banco\Banking\Banking.Common\obj\Debug\netcoreapp2.0\Banking.Common.pdb
+C:\BackEnd\Banking\Banking.Common\bin\Debug\netcoreapp2.0\Banking.Common.deps.json
+C:\BackEnd\Banking\Banking.Common\bin\Debug\netcoreapp2.0\Banking.Common.dll
+C:\BackEnd\Banking\Banking.Common\bin\Debug\netcoreapp2.0\Banking.Common.pdb
+C:\BackEnd\Banking\Banking.Common\obj\Debug\netcoreapp2.0\Banking.Common.csproj.CoreCompileInputs.cache
+C:\BackEnd\Banking\Banking.Common\obj\Debug\netcoreapp2.0\Banking.Common.AssemblyInfoInputs.cache
+C:\BackEnd\Banking\Banking.Common\obj\Debug\netcoreapp2.0\Banking.Common.AssemblyInfo.cs
+C:\BackEnd\Banking\Banking.Common\obj\Debug\netcoreapp2.0\Banking.Common.dll
+C:\BackEnd\Banking\Banking.Common\obj\Debug\netcoreapp2.0\Banking.Common.pdb

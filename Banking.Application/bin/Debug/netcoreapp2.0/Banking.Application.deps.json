@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Banking.Application/1.0.0": {
+        "dependencies": {
+          "Banking.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Banking.Application.dll": {}
+        }
+      },
+      "Banking.Common/1.0.0": {
+        "runtime": {
+          "Banking.Common.dll": {}
+        }
+      },
+      "Banking.Domain/1.0.0": {
+        "dependencies": {
+          "Banking.Common": "1.0.0"
+        },
+        "runtime": {
+          "Banking.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Banking.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Banking.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Banking.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
