@@ -22,3 +22,15 @@ C:\BackEnd\Banking\Banking.Domain\obj\Debug\netcoreapp2.0\Banking.Domain.Assembl
 C:\BackEnd\Banking\Banking.Domain\obj\Debug\netcoreapp2.0\Banking.Domain.csproj.CopyComplete
 C:\BackEnd\Banking\Banking.Domain\obj\Debug\netcoreapp2.0\Banking.Domain.dll
 C:\BackEnd\Banking\Banking.Domain\obj\Debug\netcoreapp2.0\Banking.Domain.pdb
+C:\Users\Administrador\source\repos\DyCS-2018-1.Banking\Banking.Domain\bin\Debug\netcoreapp2.0\Banking.Domain.deps.json
+C:\Users\Administrador\source\repos\DyCS-2018-1.Banking\Banking.Domain\bin\Debug\netcoreapp2.0\Banking.Domain.dll
+C:\Users\Administrador\source\repos\DyCS-2018-1.Banking\Banking.Domain\bin\Debug\netcoreapp2.0\Banking.Domain.pdb
+C:\Users\Administrador\source\repos\DyCS-2018-1.Banking\Banking.Domain\bin\Debug\netcoreapp2.0\Banking.Common.dll
+C:\Users\Administrador\source\repos\DyCS-2018-1.Banking\Banking.Domain\bin\Debug\netcoreapp2.0\Banking.Common.pdb
+C:\Users\Administrador\source\repos\DyCS-2018-1.Banking\Banking.Domain\obj\Debug\netcoreapp2.0\Banking.Domain.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\DyCS-2018-1.Banking\Banking.Domain\obj\Debug\netcoreapp2.0\Banking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\DyCS-2018-1.Banking\Banking.Domain\obj\Debug\netcoreapp2.0\Banking.Domain.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\DyCS-2018-1.Banking\Banking.Domain\obj\Debug\netcoreapp2.0\Banking.Domain.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\DyCS-2018-1.Banking\Banking.Domain\obj\Debug\netcoreapp2.0\Banking.Domain.csproj.CopyComplete
+C:\Users\Administrador\source\repos\DyCS-2018-1.Banking\Banking.Domain\obj\Debug\netcoreapp2.0\Banking.Domain.dll
+C:\Users\Administrador\source\repos\DyCS-2018-1.Banking\Banking.Domain\obj\Debug\netcoreapp2.0\Banking.Domain.pdb

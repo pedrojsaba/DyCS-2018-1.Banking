@@ -34,12 +34,12 @@ namespace Banking.Domain.Accounts.Abstraction
 
         public void withdrawMoney(Decimal amount)
         {
-            this.bankAccount.setBalance(this.bankAccount.getBalance() - amount);
+            bankAccount.Balance = bankAccount.Balance - amount;
         }
 
         public void depositMoney(Decimal amount)
         {
-            this.bankAccount.setBalance(this.bankAccount.getBalance() + amount);
+            bankAccount.Balance = bankAccount.Balance + amount;
         }
 
         protected Notification withdrawValidation(Decimal amount)
@@ -92,9 +92,9 @@ namespace Banking.Domain.Accounts.Abstraction
             {
                 return;
             }
-            if (this.bankAccount.getBalance() == null || this.bankAccount.getBalance() == null)
+            if (bankAccount.Balance == null)
             {
-                notification.addError("balance cannot be null");
+                notification.addError("balance cannot be null");//TODO: Cambiar mensaje
             }
         }
 

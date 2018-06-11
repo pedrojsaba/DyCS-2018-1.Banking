@@ -34,8 +34,8 @@ namespace Banking.Application.Customers.Service
                 var destinationAccount = bankAccountRepository.FindByNumber(destinationBankAccountDto.Number);
             //transferDomainService.PerformTransfer(originAccount, destinationAccount, amount);
 
-               originAccount.setBalance(originAccount.getBalance() - amount);
-               destinationAccount.setBalance(destinationAccount.getBalance() + amount);
+               originAccount.Balance= originAccount.Balance - amount;
+               destinationAccount.Balance= destinationAccount.Balance + amount;
 
             bankAccountRepository.Update(originAccount);
                 bankAccountRepository.Update(destinationAccount);

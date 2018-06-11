@@ -1,7 +1,5 @@
-﻿
-using Banking.Domain.Accounts.Abstraction;
+﻿using Banking.Domain.Accounts.Abstraction;
 using Banking.Domain.Accounts.Enumeration;
-using Banking.Domain.Common.ValueObject;
 using Banking.Domain.Customers.Entity;
 using System;
 
@@ -10,8 +8,8 @@ namespace Banking.Domain.Accounts.Entity
     public class BankAccount
     {
         private long id;
-        private String number;
-        private Decimal balance;
+        private string number;
+        public decimal? Balance { get; set; }
         private OverdraftPolicy overdraftPolicy;
         private BankAccountState state;
         private Customer customer;
@@ -24,7 +22,7 @@ namespace Banking.Domain.Accounts.Entity
         {
             this.id = id;
             this.number = number;
-            this.balance = balance;
+            this.Balance = balance;
             this.overdraftPolicy = overdraftPolicy;
             this.state = state;
         }
@@ -64,15 +62,7 @@ namespace Banking.Domain.Accounts.Entity
             this.number = number;
         }
 
-        public Decimal getBalance()
-        {
-            return balance;
-        }
-
-        public void setBalance(Decimal balance)
-        {
-            this.balance = balance;
-        }
+        
 
         public OverdraftPolicy getOverdraftPolicy()
         {
